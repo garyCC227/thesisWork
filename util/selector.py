@@ -8,7 +8,9 @@ from keras.applications.resnet50 import ResNet50
 from keras.applications.resnet50 import preprocess_input, decode_predictions
 
 
-
+'''
+Select image by Resnet50 with top softmax score
+'''
 class Selector(object):
   """
   select positive sister term images by ResNet50
