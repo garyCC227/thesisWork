@@ -1,3 +1,6 @@
+
+# Source dataset
+
 ## Description
 
 Here are some sample data that are used in source domain during adapatation. These data are used for 10/20/30 identical label images case.
@@ -21,3 +24,11 @@ Here are some sample data that are used in source domain during adapatation. The
  - discover the sister term of target label via WordNet
  - filter the 'positive' sister term images by my selection method
  - randomly select 10/20 'positive' sister images add into source domain
+ 
+ 
+ 
+ # Target dataset
+ 
+  Animal-10: https://www.kaggle.com/alessiocorrado99/animals10
+ 
+  Note: I only use 5 classes of animal-10 to experiment, which are dog, horse, butterfly, cat, sheep.
