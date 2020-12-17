@@ -19,4 +19,4 @@
 
 # Reference
 
-DAN and DeepCoral code are all come from https://github.com/jindongwang/transferlearning/tree/master/code/deep
+DAN and DeepCoral codes are both come from https://github.com/jindongwang/transferlearning/tree/master/code/deep
